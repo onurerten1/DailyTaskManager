@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DailyTaskManager</string>
+    <string name="add_button">EKLE</string>
+    <string name="task_hint">Yeni bir görev giriniz...</string>
+</resources>

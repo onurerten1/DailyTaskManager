@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailyTaskManager</string>
+    <string name="add_button">ADD</string>
+    <string name= "task_hint">Enter a new task...</string>
+</resources>
